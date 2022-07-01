@@ -1,0 +1,1 @@
+export const shortenAddress=(a)=>`${a.slice(0,5)}...${a.slice(a.length-4)}`
